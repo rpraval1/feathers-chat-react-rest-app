@@ -1,4 +1,5 @@
 # Feathers based Chat Application
+--------
 
-## using Feathers API and ReactJS
+### using Feathers API and ReactJS
 
